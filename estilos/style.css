@@ -9,7 +9,7 @@
 html, body {
     height: 100vh;
     width: 100vw;
-    background-image: url(../imagens/fundo-madeira.jpg);
+    background-image: linear-gradient(45deg, rgba(117, 180, 216, 0.877), rgba(24, 74, 104, 0.993));
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -37,7 +37,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 266px;
     height: 470px;
 }
 
